@@ -1,0 +1,4 @@
+﻿  hungarian.cpp
+C:\Users\melis\Desktop\Github\HungarianAlgorithm\HungarianAlgorithm\hungarian.cpp(20,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\melis\Desktop\Github\HungarianAlgorithm\HungarianAlgorithm\hungarian.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HungarianAlgorithm.vcxproj -> C:\Users\melis\Desktop\Github\HungarianAlgorithm\Debug\HungarianAlgorithm.exe
